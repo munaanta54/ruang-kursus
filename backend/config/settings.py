@@ -32,3 +32,5 @@ CORS_ALLOWED_ORIGINS = [
 REST_FRAMEWORK={"DEFAULT_PAGINATION_CLASS":"rest_framework.pagination.PageNumberPagination","PAGE_SIZE":20}
 WEATHER_API_KEY=os.getenv("WEATHER_API_KEY")
 WEATHER_API_BASE_URL="https://api.openweathermap.org/data/2.5/weather"
+
+# tes

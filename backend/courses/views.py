@@ -3,3 +3,4 @@ from .models import Course
 from .serializers import CourseSerializer
 class CourseViewSet(viewsets.ModelViewSet):
     queryset=Course.objects.all(); serializer_class=CourseSerializer; filter_backends=[filters.SearchFilter]; search_fields=["title","instructor","category"]
+# tes

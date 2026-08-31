@@ -1,0 +1,98 @@
+# TENTANG RUANGKURSUS
+
+RuangKursus adalah website pengelolaan dan pendaftaran kursus berbasis web yang memudahkan peserta untuk melihat daftar kursus, informasi program, biaya, instruktur, serta melakukan pendaftaran secara online.
+
+Melalui RuangKursus, peserta dapat memilih program sesuai kebutuhan dan tingkat kemampuan, mulai dari Beginner, Intermediate, hingga Advanced.
+
+Jam Operasional:
+Senin - Jumat : 09.00 - 17.00 WIB
+Sabtu          : 09.00 - 14.00 WIB
+Minggu         : Libur
+
+Customer Service dapat dihubungi selama jam operasional.
+
+
+# INFORMASI KURSUS
+
+RuangKursus menyediakan berbagai program kursus untuk membantu peserta meningkatkan kemampuan di bidang teknologi dan pengembangan aplikasi.
+
+Program kursus yang tersedia antara lain:
+
+1. Workshop
+   Program pembelajaran praktis mengenai pengembangan aplikasi, frontend, backend, dan penggunaan tools pemrograman.
+
+2. Network Programming
+   Program pembelajaran mengenai konsep jaringan komputer, komunikasi client-server, dan implementasi network programming.
+
+3. Kelas Goceng
+   Program kursus dengan harga terjangkau yang membahas berbagai materi dasar teknologi dan pemrograman.
+
+Setiap program dapat memiliki:
+- Nama kursus
+- Deskripsi kursus
+- Instruktur
+- Kategori
+- Level kursus
+- Durasi
+- Harga
+- Jumlah peserta
+
+Level kursus:
+- Beginner
+- Intermediate
+- Advanced
+
+
+# ALUR PENDAFTARAN
+
+Cara melakukan pendaftaran kursus:
+
+1. Buka website RuangKursus.
+2. Pilih kursus yang ingin diikuti.
+3. Baca informasi dan detail kursus.
+4. Klik tombol Daftar.
+5. Isi nama dan alamat email peserta.
+6. Pilih kursus yang ingin diikuti.
+7. Pastikan data yang dimasukkan sudah benar.
+8. Kirim formulir pendaftaran.
+9. Peserta akan tercatat pada kursus yang dipilih.
+10. Ikuti petunjuk pembayaran apabila kursus tersebut berbayar.
+
+
+# TATA CARA PEMBAYARAN
+
+Pembayaran kursus dapat dilakukan melalui transfer bank.
+
+Rekening Pembayaran:
+
+Bank BCA
+Nomor Rekening : 1234567890
+Atas Nama      : RuangKursus
+
+Bank BRI
+Nomor Rekening : 0987654321
+Atas Nama      : RuangKursus
+
+Setelah melakukan pembayaran:
+
+1. Pastikan nominal pembayaran sesuai dengan harga kursus.
+2. Simpan bukti transfer.
+3. Kirim bukti pembayaran kepada Customer Service.
+4. Cantumkan nama peserta dan nama kursus.
+5. Tunggu konfirmasi pembayaran dari administrator RuangKursus.
+
+Pembayaran dianggap berhasil setelah mendapatkan konfirmasi dari administrator.
+
+
+# KONTAK CUSTOMER SERVICE
+
+Customer Service RuangKursus:
+
+WhatsApp : 0812-3456-7890
+Email    : admin@ruangkursus.com
+
+Jam Pelayanan:
+Senin - Jumat : 09.00 - 17.00 WIB
+Sabtu          : 09.00 - 14.00 WIB
+
+Silakan hubungi Customer Service apabila mengalami kendala dalam pendaftaran, pembayaran, atau membutuhkan informasi lebih lanjut mengenai kursus.

@@ -4,6 +4,7 @@ import {
   CheckCircle2, GraduationCap, LayoutDashboard, X, Clock3, UserPlus
 } from 'lucide-react'
 import { courseApi, participantApi, activityApi, weatherApi } from './api'
+import Chatbot from "./components/Chatbot";
 
 const emptyCourse = { title:'', slug:'', description:'', instructor:'', category:'Development', level:'Beginner', duration:'4 minggu', price:0, image_url:'', is_published:true }
 const emptyParticipant = { name:'', email:'', course:'', completed:false }
@@ -79,6 +80,7 @@ export default function App(){
         {page==='weather' && <Weather/>}
       </main>
     </section>
+     <Chatbot />
   </div>
 }
 
